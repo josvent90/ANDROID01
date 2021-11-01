@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVC</string>
+    <string name="login_text">Ir a login</string>
+    <string name="register_text">Ir a registro</string>
+    <string name="email_text">Correo electrónico</string>
+    <string name="password_text">Contraseña</string>
+    <string name="login_btn">Iniciar sesión</string>
+    <string name="default_welcome_text">Bienvenido usuario</string>
+</resources>
